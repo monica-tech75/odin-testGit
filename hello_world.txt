@@ -1,0 +1,7 @@
+Hola mundo de las terminales y los commits.
+Hoy es un dia muy importante para mi vida de progamadora pues estoy empezando
+con un nuevo curso "Odin-projects".
+Es diferente a todo lo que habia estado haciendo hasta ahora, es mas
+exigente y eso me gusta. 
+Espero no desesperar y ser consistente con mi trabajo.
+Hasta pronto CLI!
